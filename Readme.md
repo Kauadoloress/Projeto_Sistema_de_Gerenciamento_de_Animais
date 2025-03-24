@@ -20,20 +20,22 @@ Um sistema Java que demonstra **herança, polimorfismo, interfaces, métodos/cla
 ## 🐾 **Estrutura do Projeto**
 1.  **`Animal` (Classe Abstrata)**
 
-  ![screenshot.png](../../../../../Imagens/screenshot.png)
+![screenshot](https://github.com/user-attachments/assets/a360d5ee-933d-4675-9e86-f5ced22becba)  
 
 2.  **`Leao` (Subclasse de `Animal` + `AnimalTerrestre`)**
 
-  ![screenshot.png](../../../../../Imagens/screenshot.png)
-  
+![screenshot](https://github.com/user-attachments/assets/5f66945f-05c7-4372-bf5e-7205422815d4)
+
 3.  **`Tubarao` (Subclasse de `Animal` + `AnimalAquatico`)**
 
-  ![screenshot|TUTU.png](../../../../../Imagens/screenshot%7CTUTU.png)
+ ![screenshot|TUTU](https://github.com/user-attachments/assets/e77ac0d8-6a03-484e-a230-4b575751fcda)
+
 
 4.  **`Ornitorrinco` (Subclasse de `Animal` + `AnimalTerrestre` + `AnimalAquatico`)**
 
-   ![screenshotPerry.png](../../../../../Imagens/screenshotPerry.png)
+![screenshotPerry](https://github.com/user-attachments/assets/fa70b24d-86ca-4cab-8222-179aeb912fca)
+
 
 5.  **`Main` (Classe de Teste)**
 
-   ![screenshotMAin.png](../../../../../Imagens/screenshotMAin.png)
+![screenshotMAin](https://github.com/user-attachments/assets/bdc53519-b127-4d75-adfd-633a11ef8475)
